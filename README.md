@@ -1,6 +1,6 @@
 ## Lucas Andrey
 
-Estudante de Análise e Desenvolvimento de Sistemas, formado na 42 São Paulo pelo programa **Programando Meu Futuro** da Natura. Curto programar, resolver problemas e experimentar áreas novas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, formado na 42 São Paulo pelo programa **Programando Meu Futuro** da Natura. Gosto de programar, resolver problemas e explorar áreas diferentes da tecnologia.
 
 ---
 
@@ -12,5 +12,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, formado na 42 São Paulo pe
 ---
 
 ### 📫 Contato
-- Email: lucasandrey109@gmail.com
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="17" height="17">[LinkedIn](https://www.linkedin.com/in/lucas-andrey7/) 
+
+- Email: [lucasandrey109@gmail.com](mailto:lucasandrey109@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Andrey-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lucas-andrey7/)
