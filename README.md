@@ -1,4 +1,4 @@
-## Lucas Andrey
+## 🚀 Lucas Andrey
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, formado na 42 São Paulo pelo programa **Programando Meu Futuro** da Natura. Gosto de programar, resolver problemas e explorar áreas diferentes da tecnologia.
 
