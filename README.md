@@ -13,4 +13,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, formado na 42 São Paulo pe
 
 ### 📫 Contato
 - Email: lucasandrey109@gmail.com
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="17" height="17">LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-andrey7/) 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="17" height="17">[LinkedIn](https://www.linkedin.com/in/lucas-andrey7/) 
